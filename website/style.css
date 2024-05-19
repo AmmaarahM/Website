@@ -1,0 +1,23 @@
+
+*
+{
+	font-family: helvetica;
+	text-align:center;
+	background-color: #dfebeb;
+}
+
+
+ul li
+{
+	list-style:none;
+}
+
+ul li a, a
+{
+	text-decoration: none;
+
+}
+ul li a,a:hover
+{
+	color: purple
+}
